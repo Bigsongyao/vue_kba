@@ -1,0 +1,196 @@
+{
+  "goods_list": [
+            {
+              "id": "1",
+              "img": "/static/img/goods_03.jpg",
+              "price": "￥2222.55",
+              "introduction": "时尚简约中式三居",
+              "evaluate": "999",
+              "collection": true
+            },
+            {
+              "id": "2",
+              "img": "/static/img/goods_05.jpg",
+              "price": "￥2222.55",
+              "introduction": "时尚简约中式三居",
+              "evaluate": "666",
+              "collection": false
+            },
+            {
+              "id": "3",
+              "img": "/static/img/goods_08.jpg",
+              "price": "￥2222.55",
+              "introduction": "时尚简约中式三居",
+              "evaluate": "666",
+              "collection": true
+            },
+            {
+              "id": "4",
+              "img": "/static/img/goods_05.jpg",
+              "price": "￥2222.55",
+              "introduction": "时尚简约中式三居",
+              "evaluate": "666",
+              "collection": false
+            }
+          ],
+    "goods_style": [
+          {
+            "id": "1",
+            "name": "厨房厨柜定制"
+          },
+          {
+            "id": "2",
+            "name": "全屋家具定制"
+          },
+          {
+            "id": "3",
+            "name": "卫浴空间定制"
+          }
+        ],
+    "style_list": [
+          {
+            "id": "1",
+            "name": "时尚简约"
+          },
+          {
+            "id": "2",
+            "name": "轻奢极简"
+          },
+          {
+            "id": "3",
+            "name": "北欧风情"
+          },
+          {
+            "id": "4",
+            "name": "摩登中式"
+          }
+        ],
+    "mesa_style": [
+          {
+            "id": "1",
+            "name": "石英石台面"
+          },
+          {
+            "id": "2",
+            "name": "亚克力台面"
+          }
+        ],
+    "category": [
+          {
+            "id": "1",
+            "name": "全屋"
+          },
+          {
+            "id": "2",
+            "name": "客餐厅"
+          },
+          {
+            "id": "3",
+            "name": "榻榻米"
+          },
+          {
+            "id": "4",
+            "name": "卧室"
+          },
+          {
+            "id": "5",
+            "name": "厨房"
+          },
+          {
+            "id": "6",
+            "name": "卫生间"
+          },
+          {
+            "id": "7",
+            "name": "儿童房"
+          },
+          {
+            "id": "8",
+            "name": "书房"
+          }
+        ],
+    "city_list": [
+      {
+        "id": "1",
+        "name": "广州"
+      },
+      {
+        "id": "2",
+        "name": "西安"
+      },
+      {
+        "id": "3",
+        "name": "武汉"
+      },
+      {
+        "id": "4",
+        "name": "成都"
+      }
+    ],
+    "goods": 
+      {
+        "id": "1",
+        "name": "北欧现在风 体验国际的浪漫简约风情",
+        "profile": "本方案采用米黄色为主要色调，柜体的组合高低错落，营造出层次感，结合着白色的柜体、背景墙，搭配黑色花纹面板以及亮色的饰品点缀，使整个空间干净明亮，温馨感十足。",
+        "collection": true,
+        "price": "￥67892",
+        "content": "<img src='/static/img/goods_detai.jpg' />",
+        "emsinstall": "<img src='/static/img/goods_sf.jpg' />",
+        "comment": [
+          {
+            "id": "1",
+            "name": "宋大宝",
+            "headimg": "/static/img/head.png",
+            "time": "2017年8月17日",
+            "value": "18套"
+          },
+          {
+            "id": "2",
+            "name": "周大福",
+            "headimg": "/static/img/head.png",
+            "time": "2017年8月17日",
+            "value": "德国REGGAR固装阻尼门铰"
+          },
+          {
+            "id": "3",
+            "name": "黄大仙",
+            "headimg": "/static/img/head.png",
+            "time": "2017年8月17日",
+            "value": "25天（视具体情况而定）"
+          }
+        ],
+        "attribute": [
+          {
+            "id": "1",
+            "name": "套餐所含件数",
+            "value": "18套"
+          },
+          {
+            "id": "2",
+            "name": "铰链",
+            "value": "德国REGGAR固装阻尼门铰"
+          },
+          {
+            "id": "3",
+            "name": "定制周期",
+            "value": "25天（视具体情况而定）"
+          },
+          {
+            "id": "4",
+            "name": "台面",
+            "value": "科荻拉20mm石英石台面"
+          },
+          {
+            "id": "5",
+            "name": "柜体",
+            "value": "E0级18mm实木多层板"
+          },
+          {
+            "id": "6",
+            "name": "背板",
+            "value": "E0级5mm实木多层板"
+          }
+        ]
+      }
+    
+}
